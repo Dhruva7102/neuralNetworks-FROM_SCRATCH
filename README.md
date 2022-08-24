@@ -12,8 +12,10 @@ It's easy to loose sight of the fact that modern ML stands on the shoulders of g
 The network will be a standard multi-layer perceptron network with 3 layers, the details of which are as follows
 
 Input Layer - 784 neurons
-  - 28 x 28 pixel data; 784 total pixel values
+  -   28 x 28 pixel data; 784 total pixel values
+
 Hidden Layer - 10 neurons
-  - ReLu activation
+  -   ReLu activation
+ 
 Output Layer - 10 neurons
-  - SoftMax activation
+  -   SoftMax activation
